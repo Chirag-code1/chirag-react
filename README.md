@@ -1,1 +1,1 @@
-<!-- Polishing React -->
+Polishing React
